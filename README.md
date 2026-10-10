@@ -7,7 +7,7 @@ to reproduce my desktop environment across my laptop and desktop.
 
 - `hypr/` — shared Hyprland configuration.
 - `machine-specific/laptop/` — laptop-specific monitor settings.
-- `machine-specific/desktop/` — desktop-specific monitor settings.
+- `machine-specific/mainPC/` — desktop-specific monitor settings.
 
 ## Setup
 
