@@ -1,5 +1,5 @@
-local omarchy_gdk_scale = 1
-local omarchy_monitor_scale = 1
+local omarchy_gdk_scale = 2
+local omarchy_monitor_scale = "auto"
 
 hl.env("GDK_SCALE", tostring(omarchy_gdk_scale))
 
@@ -17,5 +17,6 @@ hl.monitor({
   mode = "1920x1080@60",
   position = "-1080x0",
   scale = 1,
-  transform = 3
+  transform = 1
 })
+
