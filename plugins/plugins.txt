@@ -1,0 +1,6 @@
+# Nome|Repositorio
+davedes.omcontrol|https://github.com/Davedes83/OmaControl.git
+dev.git|https://github.com/ariadev/omarchy-dev-git.git
+io.github.1ternal.wsi|https://github.com/1ternal/workspace-shape-indicator.git
+io.github.smoothpixels.cursor-accent|https://github.com/SmoothPixels/cursor-accent.git
+l3aro.sudoku|https://github.com/l3aro/omarchy-sudoku.git
