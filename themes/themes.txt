@@ -1,0 +1,7 @@
+# Nome|Repositorio
+aetheria|https://github.com/JJDizz1L/aetheria.git
+amberbyte|https://github.com/tahfizhabib/omarchy-amberbyte-theme
+ayaka|https://github.com/abhijeet-swami/omarchy-ayaka-theme
+azure-glow|https://github.com/Hydradevx/omarchy-azure-glow-theme
+catppuccin-dark|https://github.com/Luquatic/omarchy-catppuccin-dark
+nes|https://github.com/bjarneo/omarchy-nes-theme
