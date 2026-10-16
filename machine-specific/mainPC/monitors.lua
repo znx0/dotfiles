@@ -1,5 +1,5 @@
-local omarchy_gdk_scale = 2
-local omarchy_monitor_scale = "auto"
+local omarchy_gdk_scale = 1
+local omarchy_monitor_scale = 1
 
 hl.env("GDK_SCALE", tostring(omarchy_gdk_scale))
 
@@ -14,9 +14,8 @@ hl.monitor({
 -- Secondary monitor: AOC 24G4, vertical on the left
 hl.monitor({
   output = "DP-2",
-  mode = "1920x1080@60",
+  mode = "1920x1080@180",
   position = "-1080x0",
   scale = 1,
-  transform = 1
+  transform = 3
 })
-
